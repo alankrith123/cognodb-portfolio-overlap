@@ -136,7 +136,7 @@ Both queries are parameterized via the official `neo4j` Python driver (`session.
 ## Demo
 
 - Hosted app: https://cognodb-portfolio-overlap.vercel.app/
-- Screen recording: `https://drive.google.com/file/d/1VfcrVt3YRUNA2nJdsAmapQow_4mlEa1p/view?usp=sharing`
+- Screen recording: https://drive.google.com/file/d/1VfcrVt3YRUNA2nJdsAmapQow_4mlEa1p/view?usp=sharing
 
 ---
 

@@ -1,4 +1,3 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b84e09f5-2615-433a-bbdb-5cecd45b6a14" /># Portfolio Overlap
 
 A tool for mutual fund investors to see what they're **actually** exposed to once overlapping holdings across their funds are accounted for. Most large-cap and flexi-cap funds hold the same 8-10 blue-chip stocks, so someone holding 4-5 "different" funds is often far more concentrated in a handful of companies and sectors than they realize. This app takes the funds an investor holds and surfaces that hidden concentration.
 
